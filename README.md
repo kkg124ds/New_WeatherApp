@@ -1,6 +1,6 @@
 # New_WeatherApp
+![Weather App Screenshot][Screenshot ](https://github.com/kkg124ds/New_WeatherApp/assets/91371042/7963fdbc-7a45-4765-8bfc-3d13c8d0e583)
 
-![Weather App Screenshot]![Screenshot ](https://github.com/kkg124ds/New_WeatherApp/assets/91371042/0556e91d-e0d0-4311-8c8e-aeb1956d7e6c)
 
 
 ## Overview
