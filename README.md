@@ -10,6 +10,6 @@ The Weather App is a simple Python application that allows users to check the cu
 ## Features
 
 - Retrieve and display the current temperature in Celsius for a given city.
-- Show a brief weather description (e.g., "Cloudy," "Sunny," "Rainy").
+- Show a brief weather description .
 - User-friendly graphical interface for ease of use.
 -  Enter the name of the city for which you want to check the weather and click the "Get Weather" button.
