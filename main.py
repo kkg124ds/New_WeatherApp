@@ -12,7 +12,7 @@ def data_get():
 
 win= Tk()
 win.title("New Tech")
-win.config(bg="blue")
+win.config(bg="sky blue")
 win.geometry("500x570")
 name_label=Label(win,text="New Weather App",font=("Time New Roman",30,"bold"))
 name_label.place(x=25,y=50,height=50,width=450)
@@ -47,8 +47,8 @@ pre_label.place(x=25,y=470,height=50,width=210)
 pre_label1=Label(win,text=" ",font=("Time New Roman",15))
 pre_label1.place(x=250,y=470,height=50,width=210)
 
-done_button=Button(win,text="Done",font=("Time New Roman",20,"bold"),command=data_get)
-done_button.place(x=200,y=190,height=50,width=100)
+done_button=Button(win,text="Get weather",font=("Time New Roman",16,"bold"),command=data_get)
+done_button.place(x=180,y=190,height=50,width=150)
 
 
 win.mainloop()
